@@ -4,8 +4,11 @@ Este é um projeto de autoria pessoal, que surgiu diante da necessidade de preen
 
 ## Diferenciais
 ✅ Automação Total – O README é gerado de forma dinâmica e orientada, eliminando a necessidade de manutenção manual.
+
 ✅ Integração com Google Drive – A solução se conecta diretamente ao Drive, garantindo que o índice sempre reflita os arquivos disponíveis.
+
 ✅ Altamente atualizável – O README pode ser atualizado à medida que alterações acontecem no diretório.
+
 ✅ Implementação em Python – Uso de algoritmo em Python com acesso direto via API do Google Drive.
 
 ## Missão
